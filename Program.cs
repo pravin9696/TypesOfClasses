@@ -9,6 +9,7 @@ namespace TypesOfClasses
 {
     static public class StClass
     {
+        static int abd;//for commit
         public static int i;//static variable  //instance static variable     
         static public int k;
         public static  float ff;
